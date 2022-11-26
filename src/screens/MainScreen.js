@@ -13,7 +13,7 @@ export default class MainScreen extends React.Component {
     }
 
     componentDidMount() {
-        document.title = "Musicder | Listen or Download Music For Free"
+        document.title = "Symphony Music | Listen your favourite"
     }
 
     render() {
